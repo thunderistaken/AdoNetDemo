@@ -1,0 +1,9 @@
+C:\Users\Erayk\source\repos\AdoNet\AdoNet\bin\Release\AdoNet.exe.config
+C:\Users\Erayk\source\repos\AdoNet\AdoNet\bin\Release\AdoNet.exe
+C:\Users\Erayk\source\repos\AdoNet\AdoNet\bin\Release\AdoNet.pdb
+C:\Users\Erayk\source\repos\AdoNet\AdoNet\obj\Release\AdoNet.Form1.resources
+C:\Users\Erayk\source\repos\AdoNet\AdoNet\obj\Release\AdoNet.Properties.Resources.resources
+C:\Users\Erayk\source\repos\AdoNet\AdoNet\obj\Release\AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\Erayk\source\repos\AdoNet\AdoNet\obj\Release\AdoNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\Erayk\source\repos\AdoNet\AdoNet\obj\Release\AdoNet.exe
+C:\Users\Erayk\source\repos\AdoNet\AdoNet\obj\Release\AdoNet.pdb
